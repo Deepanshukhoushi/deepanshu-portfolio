@@ -6,9 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I am a Full Stack Developer trained under the CG TIT Java Program, specializing
-          in building scalable web applications. My expertise spans frontend technologies
-          like Angular, alongside robust backend development using Java and Spring Boot.
+          Full Stack Developer trained under the BridgeLabz Java Full Stack Program, skilled in building scalable web applications using React, Java, Spring Boot, and Python, with growing expertise in Generative AI.
         </p>
       </div>
     </div>
