@@ -1,12 +1,12 @@
-// Ambient module declarations for gsap-trial subpath imports.
-// gsap-trial ships its types under node_modules/gsap-trial/types/ but does not
-// declare the subpath exports map, so TypeScript cannot resolve them by default.
-// These declarations forward the symbols to the correct type definitions.
+// Ambient module declarations for GSAP plugin subpath imports.
+// GSAP provides its types under node_modules/gsap/types but
+// sometimes TypeScript cannot resolve plugin subpaths correctly.
+// These declarations forward the symbols to the main GSAP types.
 
-declare module 'gsap-trial/SplitText' {
-  export { SplitText } from 'gsap-trial';
+declare module 'gsap/SplitText' {
+  export { SplitText } from 'gsap';
 }
 
-declare module 'gsap-trial/ScrollSmoother' {
-  export { ScrollSmoother } from 'gsap-trial';
+declare module 'gsap/ScrollSmoother' {
+  export { ScrollSmoother } from 'gsap';
 }
