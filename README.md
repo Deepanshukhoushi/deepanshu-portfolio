@@ -112,6 +112,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
-Deepanshu Khoushi - [Portfolio](https://deepanshu-portfolio.vercel.app/)
+Deepanshu Khoushi - [Portfolio](https://deepanshu-portfolio-bice.vercel.app/)
 
 Project Link: [https://github.com/Deepanshukhoushi/deepanshu-portfolio](https://github.com/Deepanshukhoushi/deepanshu-portfolio)
